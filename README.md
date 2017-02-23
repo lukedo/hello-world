@@ -1,3 +1,3 @@
 # hello-world
-just a test
-hello,everybody!i'm luke,how are you? this is the first test, 
+this is the first test!
+hello,everybody!i'm luke,how are you? 
